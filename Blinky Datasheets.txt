@@ -1,0 +1,4 @@
+ICM755 - https://www.nxp.com/docs/en/data-sheet/ICM7555.pdf
+
+S8211-46R - https://www.digikey.com/htmldatasheets/production/1051483/0/0/1/s8211-46r-drawing.html?utm_adgroup=Battery%20Products&utm_source=google&utm_medium=cpc&utm_campaign=Dynamic%20Search_EN_Product&utm_term=&utm_content=Battery%20Products&gclid=Cj0KCQiAic6eBhCoARIsANlox85_rsayJ_I6ZAdq-BWP4x6khS2leJ8X9ZMJ2i0PRidpn_Xm7QwSIAgaAt0EEALw_wcB
+
